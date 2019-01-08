@@ -1,4 +1,8 @@
 #!/usr/bin/env python
+###########################---BRIEF DESCRIPTION----############################
+# Halfon Lab
+# Data Sept 2018 
+# This script creates a BED-compatible file with the N top-ranked hits (based on Amplitude and SCRMshaw score) for each training set and method from a SCRMshaw-HD output.
 
 import os
 import pybedtools
